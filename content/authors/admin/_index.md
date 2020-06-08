@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Tianyu Zhang
+title: Tianyu Zhang 张天宇
 
 # Username (this should match the folder name)
 authors:
@@ -10,30 +10,33 @@ authors:
 superuser: true
 
 # Role/position
-role: AI Major Undergraduate & Researcher
+role: Undergraduate AI Major & Engineer
 
 # Organizations/Affiliations
 organizations:
 - name: Carnegie Mellon University
   url: ""
-- name: ByteDance TikTok Recommendation Team
+- name: ByteDance TikTok
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests lie at the intersection of machine learning and scalable, distributed systems.
 
 interests:
-- Scalable/distributed ML systems
+- Scalable/Distributed ML Systems
 - Computer Vision
 - Person/Object Re-identification
-- Learning theory
-- Interpretable machine learning
+- Learning Theory
+- Interpretable ML
 
 education:
   courses:
-  - course: BSc in Artificial Intelligence
+  - course: B.S. in Artificial Intelligence
     institution: Carnegie Mellon University
     year: Expected 2022
+  - course: High School Diploma
+    institution: Beijing National Day School & Wasatch Academy
+    year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -63,11 +66,9 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+# user_groups:
+# - Researchers
+# - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a junior at Carnegie Mellon University School of Computer Science. I major in Artificial Intelligence program at SCS and minor in Computational Finance at MCS. I started off interested in computer vision tasks and, specifically, re-identification. I helped build ML models in the baggage re-id and tracking system for Smart Security Inspection deployed at Beijing Daxing Int'l Airport at Nuctech summer 2019. My current interest lies at the intersection of machine learning and scalable, distributed systems. I'm joining TikTok's recommender systems team at ByteDance summer 2020 as an algorithm intern to get some hands-on experience in devising ML algorithms and systems for billion-level DAU products.
