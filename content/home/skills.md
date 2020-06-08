@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = "Languages & Tools"
-subtitle = ""
+subtitle = "with self-evaluated level of expertise"
 
 # Showcase personal skills or business features.
 # 
