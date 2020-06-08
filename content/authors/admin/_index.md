@@ -43,10 +43,10 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: github-square
+- icon: github
   icon_pack: fab
   link: https://github.com/johnzhang1999
-- icon: linkedin
+- icon: linked-in
   icon_pack: fab
   link: https://linkedin.com/in/johnzhangty
 - icon: envelope
