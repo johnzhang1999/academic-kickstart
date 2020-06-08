@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "2020-06-10"
   date_end = "2020-08-31"
   description = """
-  (In Progress) Improving recommendation algorithms for Douyin/TikTok.
+  (On-going) Improving recommendation algorithms for Douyin/TikTok.
   """
 
 [[experience]]
@@ -36,14 +36,13 @@ date_format = "Jan 2006"
   date_start = "2019-05-20"
   date_end = "2019-07-20"
   description = """
-
-  * **Baggage Re-Identification for Smart Security Inspection**: Extensively investigated past architectures for
+  - **Baggage Re-Identification for Smart Security Inspection**: Extensively investigated past architectures for
   person and vehicle re-identification (re-ID) tasks. Implemented multiple architectures and evaluated their
   performance for baggage re-ID. Achieved a 0.76 accuracy of CMC rank-1 (improving the baseline by a 0.34 margin
   in accuracy and about 100x in speed) on the overall re-ID task (image retrieval from the 500-baggage gallery) on
   the Multi-View Baggage dataset.
 
-  * **Testing Framework Development**: Developed a fork upon the open-source deep-person-reid framework for the
+  - **Testing Framework Development**: Developed a fork upon the open-source deep-person-reid framework for the
   team’s future research and deployment workflow, including features such as activation visualization, training
   checkpoint management, Comet.ml integration, and CLI tools.
   """
