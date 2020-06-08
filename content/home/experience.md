@@ -67,7 +67,7 @@ date_format = "Jan 2006"
   staff search, and infrastructure setup for 5 courses.
   """
 
-[[experience]]
+<!-- [[experience]]
   title = "Marketing Intern"
   company = "Yuanfudao 猿辅导"
   company_url = "https://www.yuanfudao.com/"
@@ -76,7 +76,7 @@ date_format = "Jan 2006"
   date_end = "2015-07-01"
   description = """
   **Data-informed Marketing Strategies**: Collected and analyzed data of 8000+ students who improved their Gaokao score by using the company’s product, primarily its AI-enabled 1-on-1 online tutoring service. Generated design proposals and Web App prototypes for the team’s marketing strategies for the next academic year.
-  """
+  """ -->
 
 [[experience]]
   title = "Co-founder"
