@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Machine Learning Algorithm Intern"
-  company = "ByteDance"
+  company = "ByteDance 字节跳动"
   company_url = "https://bytedance.com/"
   location = "Beijing"
   date_start = "2020-06-10"
@@ -30,7 +30,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Machine Learning Intern"
-  company = "Nuctech"
+  company = "Nuctech 同方威视"
   company_url = "http://www.nuctech.com/"
   location = "Beijing"
   date_start = "2019-05-20"
@@ -65,6 +65,30 @@ date_format = "Jan 2006"
 
   **Academy Experience Design**: Directed the Academic Team of TechX 2019. Led the processes of course design,
   staff search, and infrastructure setup for 5 courses.
+  """
+
+[[experience]]
+  title = "Marketing Intern"
+  company = "Yuanfudao 猿辅导"
+  company_url = "https://www.yuanfudao.com/"
+  location = "Beijing"
+  date_start = "2015-06-01"
+  date_end = "2015-07-01"
+  description = """
+  **Data-informed Marketing Strategies**: Collected and analyzed data of 8000+ students who improved their Gaokao score by using the company’s product, primarily its AI-enabled 1-on-1 online tutoring service. Generated design proposals and Web App prototypes for the team’s marketing strategies for the next academic year.
+  """
+
+[[experience]]
+  title = "Co-founder"
+  company = "Fintern"
+  company_url = ""
+  location = "Beijing"
+  date_start = "2018-04-01"
+  date_end = "2019-04-01"
+  description = """
+  **Product Management**: Assisted the development of the platform from scratch using TypeScript and Node.js; generated user experience reports and feature addition proposals; beta-tested the platform with 100 users.
+  
+  **Business Operations**: Drafted business plans and pitched to Tsinghua alumni investors, ZhenFund, and various other VCs; Invited 15+ Chinese corporations and organizations to enter Fintern.
   """
 
 +++
