@@ -46,17 +46,25 @@ subtitle = "Courses marked with * are on-going"
  css_class = ""
 +++
 
-**CS**
+**Computer Science**
 - Algorithms Design and Analysis*
 - Parallel and Sequential Data Structures and Algorithms
+- Introduction to Computer Systems
+- Great Ideas in Theoretical Computer Science
+- Functional Programming
+- Principles of Software Construction
+- Competitive Programming
 
-**AI**
-- Scalable Machine Learning
+**Artificial Intelligence**
+- Scalable Machine Learning*
+- Computer Vision*
 - Introduction to Machine Learning
 - AI: Representation and Problem Solving
 
-**Math**
+**Mathematics**
 - Multivariate Calculus
 - Probability Theory
 - Linear Algebra
 - Discrete Math
+- Modern Regression*
+- Introduction to Mathematical Finance
