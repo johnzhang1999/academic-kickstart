@@ -57,9 +57,9 @@ social:
   link: https://github.com/johnzhang1999
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -71,4 +71,8 @@ email: ""
 # - Visitors
 ---
 
-I am a junior at Carnegie Mellon University School of Computer Science. I major in Artificial Intelligence program at SCS and minor in Computational Finance at MCS. I started off interested in computer vision tasks and, specifically, re-identification. I helped build ML models in the baggage re-id and tracking system for Smart Security Inspection deployed at Beijing Daxing Int'l Airport at Nuctech summer 2019. My current interest lies at the intersection of machine learning and scalable, distributed systems. I'm joining TikTok's recommender systems team at ByteDance summer 2020 as an algorithm intern to get some hands-on experience in devising ML algorithms and systems for billion-level DAU products.
+I am a junior at Carnegie Mellon University School of Computer Science. I major in Artificial Intelligence at SCS and minor in Computational Finance at MCS. 
+
+I started off interested in computer vision tasks and, specifically, re-identification. I helped build ML models in the baggage re-id and tracking system for Smart Security Inspection deployed at Beijing Daxing Int'l Airport at Nuctech summer 2019. 
+
+My current interest lies at the intersection of machine learning and scalable, distributed systems. I'm joining TikTok's recommender systems team at ByteDance summer 2020 as an algorithm intern to get some hands-on experience in devising ML algorithms and systems for billion-level DAU products.
