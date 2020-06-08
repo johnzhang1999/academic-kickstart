@@ -5,11 +5,11 @@ active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
 title = "Relevant Courses"
-subtitle = "Courses marked with * is on-going"
+subtitle = "Courses marked with * are on-going"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
+  columns = "2"
 
 [design.background]
   # Apply a background color, gradient, or image.
