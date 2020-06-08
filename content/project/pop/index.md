@@ -14,5 +14,5 @@ external_link: https://devpost.com/software/pop-ne8fw7
 
 image:
   caption: A screenshot of the app
-  focal_point: Smart
+  focal_point: Top
 ---
