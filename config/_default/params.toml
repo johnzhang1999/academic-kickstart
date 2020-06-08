@@ -93,18 +93,18 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "5000 Forbes Ave", city = "Pittsburgh", region = "PA", postcode = "15213", country = "United States", country_code = "US"}
+# address = {street = "5000 Forbes Ave", city = "Pittsburgh", region = "PA", postcode = "15213", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "40.442887", longitude = "-79.942923"}
+# coordinates = {latitude = "40.442887", longitude = "-79.942923"}
 
 # Directions for visitors to locate you.
 # directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = []
+# office_hours = []
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 # appointment_url = ""
@@ -181,7 +181,7 @@ plugins_js  = []
   gravatar = false
 
   # Choose a shape for avatar images. Options: circle, square.
-  shape = "square"
+  shape = "circle"
 
 # Available address formats.
 [address_formats]
@@ -270,7 +270,7 @@ plugins_js  = []
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  engine = 2
+  engine = 0
   api_key = ""
   zoom = 15
 
