@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Skills"
+title = "Languages & Tools"
 subtitle = ""
 
 # Showcase personal skills or business features.
@@ -75,13 +75,5 @@ subtitle = ""
 #  icon_pack = "emoji"
 #  name = "Emojiness"
 #  description = "100%"  
-
-# Uncomment to use custom SVG icons.
-# Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
-# [[feature]]
-#  icon = "beach-sunset"
-#  icon_pack = "custom"
-#  name = "Surfing"
-#  description = "90%"
 
 +++
