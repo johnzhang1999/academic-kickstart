@@ -67,17 +67,6 @@ date_format = "Jan 2006"
   staff search, and infrastructure setup for 5 courses.
   """
 
-<!-- [[experience]]
-  title = "Marketing Intern"
-  company = "Yuanfudao 猿辅导"
-  company_url = "https://www.yuanfudao.com/"
-  location = "Beijing"
-  date_start = "2015-06-01"
-  date_end = "2015-07-01"
-  description = """
-  **Data-informed Marketing Strategies**: Collected and analyzed data of 8000+ students who improved their Gaokao score by using the company’s product, primarily its AI-enabled 1-on-1 online tutoring service. Generated design proposals and Web App prototypes for the team’s marketing strategies for the next academic year.
-  """ -->
-
 [[experience]]
   title = "Co-founder"
   company = "Fintern"
@@ -90,5 +79,4 @@ date_format = "Jan 2006"
   
   **Business Operations**: Drafted business plans and pitched to Tsinghua alumni investors, ZhenFund, and various other VCs; Invited 15+ Chinese corporations and organizations to enter Fintern.
   """
-
 +++
