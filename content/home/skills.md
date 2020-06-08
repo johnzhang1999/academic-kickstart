@@ -27,8 +27,8 @@ subtitle = ""
   description = "Fluent"  
   
 [[feature]]
-  icon = "cuttlefish"
-  icon_pack = "fab"
+  icon = "c"
+  icon_pack = "custom"
   name = "C/C++"
   description = "Intermediate"
 
@@ -43,6 +43,31 @@ subtitle = ""
   icon_pack = "custom"
   name = "MATLAB"
   description = "Intermediate"
+
+[[feature]]
+  icon = "pytorch"
+  icon_pack = "custom"
+  name = "Pytorch"
+  description = "Intermediate"
+
+[[feature]]
+  icon = "spark"
+  icon_pack = "custom"
+  name = "Spark"
+  description = "Beginner"
+
+[[feature]]
+  icon = "react"
+  icon_pack = "fab"
+  name = "React"
+  description = "Beginner"
+
+[[feature]]
+  icon = "node-js"
+  icon_pack = "fab"
+  name = "Node.js"
+  description = "Beginner"
+
 
 # Uncomment to use emoji icons.
 # [[feature]]
