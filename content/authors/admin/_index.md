@@ -46,7 +46,7 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/johnzhang1999
-- icon: linked-in
+- icon: linkedin-in
   icon_pack: fab
   link: https://linkedin.com/in/johnzhangty
 - icon: envelope
