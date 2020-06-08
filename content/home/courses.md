@@ -5,7 +5,10 @@ active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
 title = "Relevant Courses"
-subtitle = "Courses I've taken over the years... Items marked * are on-going."
+subtitle = """
+Courses I've taken over the years... 
+Items marked * are on-going.
+"""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
