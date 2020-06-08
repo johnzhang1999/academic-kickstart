@@ -36,15 +36,35 @@ date_format = "Jan 2006"
   date_start = "2019-05-20"
   date_end = "2019-07-20"
   description = """
-  - **Baggage Re-Identification for Smart Security Inspection**: Extensively investigated past architectures for
+  **Baggage Re-Identification for Smart Security Inspection**: Extensively investigated past architectures for
   person and vehicle re-identification (re-ID) tasks. Implemented multiple architectures and evaluated their
   performance for baggage re-ID. Achieved a 0.76 accuracy of CMC rank-1 (improving the baseline by a 0.34 margin
   in accuracy and about 100x in speed) on the overall re-ID task (image retrieval from the 500-baggage gallery) on
   the Multi-View Baggage dataset.
 
-  - **Testing Framework Development**: Developed a fork upon the open-source deep-person-reid framework for the
+  **Testing Framework Development**: Developed a fork upon the open-source deep-person-reid framework for the
   team’s future research and deployment workflow, including features such as activation visualization, training
   checkpoint management, Comet.ml integration, and CLI tools.
+  """
+
+[[experience]]
+  title = "Head Academic Staff"
+  company = "TechX Academy"
+  company_url = "https://www.techx.academy/"
+  location = "Shanghai"
+  date_start = "2018-05-01"
+  date_end = "2019-08-20"
+  description = """
+  **Instructor of Theory of Computation**: Co-taught the 5-day seminar on theoretical computer science, covering
+  topics such as discrete math fundamentals, computability (DFA and TM), and efficiency (polynomial reduction and
+  P vs. NP). Designed slides, handouts, and assignments.
+
+  **TA for AI Courses**: TA-ed 10-day main courses. Designed homework and assessments for neural net basics,
+  Markov Decision Process, Q-learning in Deep Reinforcement Learning (2018), and feature extraction, SVM, DP &
+  Seam Carving in Computer Vision (2019). Led Q&A sessions and graded homework.
+
+  **Academy Experience Design**: Directed the Academic Team of TechX 2019. Led the processes of course design,
+  staff search, and infrastructure setup for 5 courses.
   """
 
 +++
