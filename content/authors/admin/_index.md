@@ -10,28 +10,30 @@ authors:
 superuser: true
 
 # Role/position
-role: AI Junior at CMU SCS
+role: AI Major Undergraduate & Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: ByteDance
-  url: ""
 - name: Carnegie Mellon University
+  url: ""
+- name: ByteDance TikTok Recommendation Team
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests lie at the intersection of machine learning and scalable, distributed systems.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Scalable/distributed ML systems
+- Computer Vision
+- Person/Object Re-identification
+- Learning theory
+- Interpretable machine learning
 
 education:
   courses:
   - course: BSc in Artificial Intelligence
     institution: Carnegie Mellon University
-    year: 2022
+    year: Expected 2022
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
