@@ -1,7 +1,7 @@
 ---
 title: Time Series Analysis Framework
-summary: This framework is aimed to provide analytical tools and operations on time series from any domain and allows plugins to be written to import time series from custom sources and visualize them in custom ways. Written in Java with GUI constructed with 
-Java Swing.
+summary: "This framework is aimed to provide analytical tools and operations on time series from any domain and allows plugins to be written to import time series from custom sources and visualize them in custom ways. Written in Java with GUI constructed with 
+Java Swing."
 tags:
 - Java
 - GUI
