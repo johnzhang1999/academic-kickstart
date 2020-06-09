@@ -1,5 +1,5 @@
 ---
-title: City Selection
+title: City Selection for Int'l Conferences
 summary: "Venue Selection of International Conferences Based on Time Difference and Flight Fatigue: Explored
 the influence of jet lag and flight fatigue on travelers; built models to provide strategies for international conference
 venue selection. (IMMC2017, Finalist, MATLAB/Mathematica)"
