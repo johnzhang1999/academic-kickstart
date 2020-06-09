@@ -49,6 +49,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://linkedin.com/in/johnzhangty
+- icon: zhihu
+  icon_pack: fab
+  link: https://www.zhihu.com/people/johnzhang1999
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
