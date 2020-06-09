@@ -36,8 +36,7 @@ height = ""
 
 [[item]]
   title = "Photography"
-  content = "I own a few SLR/DSLR cameras for photography: Nikon D610, Nikon F3, Rollei 35S. I casually do
-  portrait and candid digital and film photography. I have an instagram account for my experimental photos."
+  content = "I own a few SLR/DSLR cameras for photography: Nikon D610, Nikon F3, Rollei 35S. I casually do portrait and candid digital and film photography. I have an instagram account for my experimental photos."
   align = "left"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
