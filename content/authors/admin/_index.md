@@ -77,4 +77,4 @@ I started off interested in computer vision tasks and, specifically, re-identifi
 
 My current interest lies at the intersection of machine learning and scalable, distributed systems. I'm joining TikTok's recommender systems team at ByteDance summer 2020 as an algorithm intern to obtain hands-on experience in devising ML algorithms and systems for billion-DAU products.
 
-Besides from CS, I'm an Economics hobbyist. I love to read about public choice and market theory. Academics aside, I'm into Chinese folk music; I've been a passionate Erhu player for over 14 years. I also love snowboarding and I've slid down mountains in Breckenridge and Chongli. I look forward to more quests in the mountains in the future.
+Besides CS, I'm an Economics hobbyist. I love to read about public choice and market theory. Academics aside, I'm into Chinese folk music; I've been a passionate Erhu player for over 14 years. I also love snowboarding and I've slid down mountains in Breckenridge and Chongli. I look forward to more quests in the mountains in the future.
