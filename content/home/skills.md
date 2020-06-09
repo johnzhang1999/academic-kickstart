@@ -18,19 +18,19 @@ subtitle = "with self-evaluated levels of expertise"
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "Fluent"
+  description = "Advanced"
   
 [[feature]]
   icon = "java"
   icon_pack = "fab"
   name = "Java"
-  description = "Fluent"  
+  description = "Advanced"  
   
 [[feature]]
   icon = "c"
   icon_pack = "custom"
   name = "C/C++"
-  description = "Intermediate"
+  description = "Advanced"
 
 [[feature]]
   icon = "js"
