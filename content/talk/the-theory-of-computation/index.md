@@ -27,6 +27,8 @@ image:
   filename: featured.png
   focal_point: Smart
   preview_only: false
-  caption: Reduction
+  caption: Reducing language A to B
 ---
 This series covers the fundamentals of theoretical computer science, including an introduction to TCS, discrete math basics, DFAs, Turing Machines, Big-O efficiency, P vs. NP, and polynomial reductions.
+
+Note: this seminar series was co-developed with [Hiroshi Wu](http://trollium.tk/) (CMU) and [Ruijie Fang](https://tr5.org/~ruijie/) (Princeton) at TechX Academy 2019. Copyright reserved.
