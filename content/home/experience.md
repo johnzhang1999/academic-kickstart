@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Machine Learning Algorithm Intern"
-  company = "ByteDance 字节跳动"
+  company = "ByteDance"
   company_url = "https://bytedance.com/"
   location = "Beijing"
   date_start = "2020-06-10"
@@ -30,7 +30,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Machine Learning Intern"
-  company = "Nuctech 同方威视"
+  company = "Nuctech"
   company_url = "http://www.nuctech.com/"
   location = "Beijing"
   date_start = "2019-05-20"
