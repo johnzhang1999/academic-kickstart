@@ -18,7 +18,7 @@ height = ""
 [[item]]
   title = "My Ideal Economy"
   content = "An economics paper I co-authored with Michael Ou (Rice), A Developed, Caring, and Sustainable Economy, in which we detailed our ideal model of economy (which we knew was unlikely to be realized any time soon)."
-  align = "center"  # Choose `center`, `left`, or `right`.
+  align = "left"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
@@ -35,20 +35,23 @@ height = ""
   cta_icon = "paperclip"
 
 [[item]]
-  title = "Left"
-  content = "I am left aligned :smile:"
-  align = "left"
+  title = "Photography"
+  content = "I own a few SLR/DSLR cameras for photography: Nikon D610, Nikon F3, Rollei 35S. I casually do
+  portrait and candid digital and film photography. I have an instagram account for my experimental photos."
+  align = "left"  # Choose `center`, `left`, or `right`.
 
-  overlay_color = "#555"  # An HTML color value.
-  overlay_img = ""  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  # Overlay a color or image (optional).
+  #   Deactivate an option by commenting out the line, prefixing it with `#`.
+  # overlay_color = "#666"  # An HTML color value.
+  overlay_img = "slider/photography.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.2  # Darken the image. Value in range 0-1.
 
-[[item]]
-  title = "Right"
-  content = "I am right aligned :smile:"
-  align = "right"
+  # Call to action button (optional).
+  #   Activate the button by specifying a URL and button label below.
+  #   Deactivate by commenting out parameters, prefixing lines with `#`.
+  cta_label = "Instagram"
+  cta_url = "https://www.instagram.com/edgyguide/"
+  cta_icon_pack = "fab"
+  cta_icon = "instagram"
 
-  overlay_color = "#333"  # An HTML color value.
-  overlay_img = ""  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 +++
