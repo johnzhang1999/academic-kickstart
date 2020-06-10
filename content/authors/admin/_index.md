@@ -73,7 +73,7 @@ email: ""
 
 I am a junior at Carnegie Mellon University School of Computer Science. I major in Artificial Intelligence at SCS and minor in Computational Finance at MCS. 
 
-I started off interested in computer vision tasks and, specifically, re-identification. I helped build ML models in the baggage re-id and tracking system for Smart Security Inspection deployed at Beijing Daxing Int'l Airport at Nuctech summer 2019. 
+I started off interested in computer vision tasks and specifically re-identification. I helped build ML models in the baggage re-id and tracking system for Smart Security Inspection deployed at Beijing Daxing Int'l Airport at Nuctech summer 2019. 
 
 My current interest lies at the intersection of machine learning and scalable, distributed systems. I'm joining TikTok's recommender systems team at ByteDance summer 2020 as an algorithm intern to obtain hands-on experience in devising ML algorithms and systems for billion-DAU products.
 
