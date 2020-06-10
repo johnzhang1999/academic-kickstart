@@ -17,7 +17,7 @@ height = ""
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "My Ideal Economy"
-  content = "An economics paper I co-authored with Michael Ou (Rice), A Developed, Caring, and Sustainable Economy, in which we detailed our ideal model of economy (which we knew was unlikely to be realized any time soon)."
+  content = "An economics paper I co-authored with my friend Michael, "A Developed, Caring, and Sustainable Economy", in which we detailed our ideal model of economy (which we knew was unlikely to be realized any time soon)."
   align = "left"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
