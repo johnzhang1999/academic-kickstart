@@ -16,7 +16,7 @@ role: Undergraduate AI Major. Dreamer. Doer.
 organizations:
 - name: Carnegie Mellon University
   url: ""
-- name: TikTok @ ByteDance
+- name: ByteDance IES
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
