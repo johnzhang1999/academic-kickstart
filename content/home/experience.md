@@ -25,7 +25,19 @@ date_format = "Jan 2006"
   date_start = "2020-06-10"
   date_end = "2020-08-31"
   description = """
-  (On-going) Improving recommendation algorithms for Douyin/TikTok.
+  **Live Streams Recommendation, Graph Embedding**: 
+
+  ∗ Improved the performance of the internal ML trainer (C++) by reducing communication overhead. Reduced the mini-batch forward latency by over 100% in certain training circumstances that involve graph embedding. 
+
+  ∗ Extracted relations from Petabyte log data to build distributed user-author graphs using MapReduce and designed graph encoders to train an embedding of graph nodes using Tensorﬂow and ByteDance ML API. 
+
+  ∗ Integrated end-to-end embedding to CTR prediction and signiﬁcantly increased online user staytime (+3.5%), comment rate (+3.8%), and other metrics in AB tests for Douyin and TikTok. 
+
+  **Systems for Engineering Eﬃciency**: 
+
+  ∗ Designed and developed a system from scratch in Django with RESTful APIs that creates and manages alerts for 100+ online models of 5 products and presents model health status on a dashboard. Attracted 70+ internal users and developers. Reduced the usual day-long response time to less than an hour in a recent dataﬂow accident. 
+
+  ∗ Developed a pipeline that analyzes the importance of 300+ features in a Monte Carlo fashion and performs feature modiﬁcation on Terabyte model checkpoints on clusters based on the results. Saved 2hr+ manual labor per iteration and 35k+ core-hour computing resources in total than hand-tuning.
   """
 
 [[experience]]

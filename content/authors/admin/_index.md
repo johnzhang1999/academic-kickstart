@@ -24,7 +24,7 @@ bio: My research interests lie at the intersection of machine learning and scala
 
 interests:
 - Scalable/Distributed ML Systems
-- Computer Vision
+- Recommender Systems
 - Person/Object Re-identification
 - Learning Theory
 - Interpretable ML
@@ -70,11 +70,8 @@ email: ""
 # - Researchers
 # - Visitors
 ---
+I am a junior at Carnegie Mellon University School of Computer Science. I major in Artificial Intelligence and minor in Computational Finance.
 
-I am a junior at Carnegie Mellon University School of Computer Science. I major in Artificial Intelligence at SCS and minor in Computational Finance at MCS. 
+My current interest lies at the intersection of machine learning and scalable, distributed systems. I interned at the recommender systems team at ByteDance summer 2020 and devised ML algorithms and systems for billion-DAU products.
 
-I started off interested in computer vision tasks and specifically re-identification. I helped build ML models in the baggage re-id and tracking system for Smart Security Inspection deployed at Beijing Daxing Int'l Airport at Nuctech summer 2019. 
-
-My current interest lies at the intersection of machine learning and scalable, distributed systems. I'm joining TikTok's recommender systems team at ByteDance summer 2020 as an algorithm intern to obtain hands-on experience in devising ML algorithms and systems for billion-DAU products.
-
-Besides CS, I'm an Economics hobbyist. I love to read about public choice and market theory. Academics aside, I'm into Chinese folk music; I've been a passionate Erhu player for over 14 years. I also love snowboarding and I've slid down mountains in Breckenridge and Chongli. I look forward to more quests in the mountains in the future.
+I'm actively seeking internship opportunities for Summer 2021 during which I wish I could explore new knowledge and different career opportunities. Specifically, I'm looking for software/algorithm engineering or quantitative analysis roles. Please shoot me an email or direct message if you have such opportunities! 
