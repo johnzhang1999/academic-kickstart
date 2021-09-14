@@ -70,7 +70,7 @@ email: ""
 # - Researchers
 # - Visitors
 ---
-**Note**: This site is no longer maintained after 2020. Plese visit my new page at [tianyuz.com](https://tianyuz.com).
+**Note: This site is no longer maintained after 2020. Plese visit my new page at [tianyuz.com](https://tianyuz.com).**
 
 I am a junior at Carnegie Mellon University School of Computer Science. I major in Artificial Intelligence and minor in Computational Finance.
 
